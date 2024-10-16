@@ -16,4 +16,4 @@ Este repositório é aberto para contribuições. Sinta-se à vontade para usar 
 
 ## Exemplos de GIFs
 
-![Exemplo de GIF](URL_do_GIF)
+![Exemplo de GIF](https://github.com/andrevileladev-v2/gifs-de-trabalhos/blob/main/gifs/video.gif)
